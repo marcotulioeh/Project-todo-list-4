@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(0, 153, 255);
+  background-color: rgb(0 153 255);
 }
 
 header {
@@ -16,25 +16,25 @@ button {
   border-radius: 20px;
   display: inline-block;
   cursor: pointer;
-  font-family: Montserrat, sans-serif;
-  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
   font-size: 13px;
   padding: 6px 10px;
   text-decoration: none;
 }
 
 h1 {
-  font-family: Montserrat, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #funcionamento {
-  font-family: Montserrat, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: italic;
-  font-size: 20Px;
+  font-size: 140%;
 }
 
 #texto-tarefa {
-  border-color: rgb(0, 153, 255);
+  border-color: rgb(0 153 255);
   border-radius: 5px;
 }
 
@@ -44,7 +44,7 @@ h1 {
 }
 
 #criar-tarefa {
-  background-color: rgb(94, 189, 0);
+  background-color: rgb(94 189 0);
   color: white;
 }
 
@@ -58,17 +58,17 @@ h1 {
 }
 
 #mover-cima {
-  background-color: rgb(250, 164, 4);
+  background-color: rgb(250 164 4);
   color: white;
 }
 
 #mover-baixo {
-  background-color: rgb(250, 164, 4);
+  background-color: rgb(250 164 4);
   color: white;
 }
 
 #remover-finalizados {
-  background-color: rgb(0, 82, 189);
+  background-color: rgb(0 82 189);
   color: white;
 }
 
@@ -78,6 +78,6 @@ h1 {
 }
 
 #salvar-tarefas {
-  background-color: rgb(94, 189, 0);
+  background-color: rgb(94 189 0);
   color: white;
 }
